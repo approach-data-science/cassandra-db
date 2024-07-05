@@ -7,7 +7,7 @@ Se explica al usuario la operación ejecutada a través de mensajes por pantalla
 
 Se compone de las carpetas
 
--DB: Posee los scripts de creación de la BD y el script con datos para prueba
--model: Se encuentran las clases del modelo de datos, dtos necesarios y procesamiento contra la BD.
--service: Logica de negocio 
--utils: Utilidades generales
+* **DB:** Posee los scripts de creación de la BD y el script con datos para prueba
+* **model:** Se encuentran las clases del modelo de datos, dtos necesarios y procesamiento contra la BD.
+* **service:** Logica de negocio 
+* **utils:** Utilidades generales
